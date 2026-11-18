@@ -1,0 +1,9 @@
+database/*
+!database/.gitkeep
+archive/
+archive.zip
+working/
+*.pth
+.vscode/
+tree.txt
+.ipynb_checkpoints/
